@@ -1,6 +1,9 @@
 # 🎮 Crystal Memory – Dockerized Web Game
 
 Crystal Memory is a lightweight, browser-based memory game built using HTML, CSS, and JavaScript, containerized with Docker, served via Nginx, and deployed on AWS Elastic Beanstalk. This project demonstrates an end-to-end DevOps workflow, covering local development, containerization, cloud deployment, and infrastructure cleanup.
+<img width="1920" height="1040" alt="game" src="https://github.com/user-attachments/assets/516e19d3-fca5-4ba5-9246-c7a55386fc54" />
+<img width="1920" height="1080" alt="dockerimage" src="https://github.com/user-attachments/assets/6ea1bda1-822e-4efe-9760-abe1b5e81f7b" />
+<img width="1920" height="1036" alt="beanstalk" src="https://github.com/user-attachments/assets/db058a95-07bd-4ee4-bf55-7f5cd1f89974" />
 
 ## 🚀 Project Overview
 
@@ -58,4 +61,4 @@ Future improvements may include setting up CI/CD pipelines using GitHub Actions,
 
 Aditya Rudola  
 Cloud / DevOps Engineer  
-GitHub: https://github.com/Adityarrudola/crystal-memory
+GitHub: https://github.com/Adityarrudola/
